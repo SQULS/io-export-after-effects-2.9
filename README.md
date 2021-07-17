@@ -1,4 +1,4 @@
-#IO Export To After Effects
+# IO Export To After Effects
 
 This is a version of https://developer.blender.org/diffusion/BAC/browse/master/io_export_after_effects.py updated to work with Blender 2.9. I fixed this before discovering a more robust update on [Blender.org](https://developer.blender.org/diffusion/BAC/browse/master/io_export_after_effects.py) Have still created this repo for people asking the same questions as I was.
 
